@@ -32,7 +32,7 @@ h3 {
     border: 5px solid silver;
 }
 #combine {
-    display: inline;
+    display: inline-block;
     vertical-align: top;
 }
 h4 { /*About label*/
